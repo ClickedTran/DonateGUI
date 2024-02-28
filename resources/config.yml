@@ -1,0 +1,15 @@
+domain: "thesieure.com" #Do not delete or edit this line!
+
+partnerId: "" #your parter id in website https://thesieure.com/merchant/list
+partnerKey: "" #your partener key in website https://thesieure.com/merchant/list
+
+donate:
+ successfully: "§aNạp thẻ thành công! Bạn đã nhận được §b{money} vì §c{type}!"
+ failed:
+  1: "§cThẻ không được gửi với lí do §9{reason}" #Lỗi {error}
+  2: "§cĐã có lỗi xảy ra, vui lòng chụp lại lỗi và gửi cho admin\n§bRequest Id: §9{request_id}\n§bMessage: §9{message}"
+info_donate: "§9> §aNgân hàng: §bMBBANK\n§9> §aSTK: §bSTK\n§9> §aNội dung: §btengame\n\nNếu có lỗi xảy ra, vui lòng liên hệ: \n§9> §7Facebook: §bfacebook\n§9> §7Zalo: §bzalo"
+
+prefix: "§9[ §bDonateGUI §9]§r "
+
+multip: 1 #NOT INPUT THIS IS 0
