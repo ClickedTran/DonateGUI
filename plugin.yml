@@ -1,0 +1,12 @@
+name: DonateGUI
+api: 5.0.0
+version: 1.0.0
+main: ClickedTran\DonateGUI\DonateGUI
+
+authors:
+- VicthorCaius (Coder)
+- PhatNotFat (Idea maker)
+
+permissions:
+  donategui.command:
+    default: true
