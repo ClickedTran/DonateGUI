@@ -9,7 +9,7 @@
 
 # Làm cách nào để cài đặt nó?
 ### Bước 1:
-- Hãy tải plugin xuống thông qua mục `code` nằm trên góc file hoặc có thể tải nhanh tại đây!
+- Hãy tải plugin xuống thông qua mục `code` nằm trên góc file hoặc có thể tải nhanh <a href="https://github.com/ClickedTran/DonateGUI/releases/download/1.0.0/DonateGUI.zip">**tại đây**</a>
 ### Bước 2:
 - Giải nén file và sao chép sau đấy dán file vào thư mục `plugins` được PocketMine-MP cấp sẵn
 ### Bước 3:
