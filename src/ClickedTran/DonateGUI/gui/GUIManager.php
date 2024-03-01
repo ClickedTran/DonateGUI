@@ -224,7 +224,7 @@ class GUIManager {
 
         foreach ($this->plugin->getDonateData()->get($player->getName(), []) as $key => $data) {
             if ($key == "total") {
-                $infoText += ["  - Tong cong: " . number_format($data) . "₫"];
+                $infoText += ["  - Tổng tiền đã nạp: " . number_format($data) . "₫"];
             } else {
                 $infoText += ["  - " . $key . ": " . number_format($data) . "₫"];
             }
