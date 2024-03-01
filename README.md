@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://img.shields.io/github/downloads/ClickedTran/DonateGUI/total" width="150px" height="auto"></img>
-</div>
+<img src="https://img.shields.io/github/downloads/ClickedTran/DonateGUI/total" width="120px" height="auto"></img>
 
 # Plugin này là gì?
 - Đây là 1 plugin Nạp Thẻ (donate) dành cho PocketMine-MP VN, vì tôi biết nước ngoài sẽ không dùng đến nên **README** này được viết 100% bằng tiếng Việt!
